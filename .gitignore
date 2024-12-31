@@ -1,2 +1,4 @@
 myenv
 .env
+multilingual_assistant.egg-info
+speech.mp3
